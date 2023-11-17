@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JCB_InsertarCliente", "JCB_InsertarCliente\JCB_InsertarCliente.csproj", "{B613504F-4632-4FC3-A9C8-4E7505E2CBE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B613504F-4632-4FC3-A9C8-4E7505E2CBE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B613504F-4632-4FC3-A9C8-4E7505E2CBE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B613504F-4632-4FC3-A9C8-4E7505E2CBE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B613504F-4632-4FC3-A9C8-4E7505E2CBE3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99C1806C-9D31-4B65-B23C-95FECF82DD04}
+	EndGlobalSection
+EndGlobal
