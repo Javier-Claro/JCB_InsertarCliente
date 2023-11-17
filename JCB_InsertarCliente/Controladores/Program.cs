@@ -4,13 +4,11 @@ namespace JCB_InsertarCliente.Controladores
 {
     /// <summary>
     /// Clase principal de la aplicación
-    /// 250923 - rfg
     /// </summary>
     class Program
     {
         /// <summary>
         /// Método de entrada de la aplicación
-        /// 250923 - rfg
         /// </summary>
         /// <param name="args"></param>
         static void Main(String[] args)
